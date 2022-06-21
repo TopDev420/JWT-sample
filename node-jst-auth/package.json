@@ -1,12 +1,12 @@
 {
-  "name": "jst-auth",
+  "name": "node-jwt-auth",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Node.js Demo JWT Authentication",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "bezkoder",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
