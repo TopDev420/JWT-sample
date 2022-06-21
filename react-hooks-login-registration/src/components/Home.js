@@ -20,7 +20,7 @@ const Home = () => {
         <div className="container">
             <header className="jumbotron">
                 {/* <h3>{content}</h3> */}
-                <h3>home</h3>
+                <h3>home is holding now</h3>
             </header>
         </div>
     );
